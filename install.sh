@@ -18,4 +18,9 @@ else
     exit 1
 fi
 
-exit 0
+echo "         UPLOADED BY TARK_HANFY    "
+
+killall -9 enigma2
+
+sleep 2;
+
