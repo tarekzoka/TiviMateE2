@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-BASE="https://raw.githubusercontent.com/opesboy/TiviMateE2/main"
+BASE="https://raw.githubusercontent.com/tarekzoka/TiviMateE2/refs/heads/main"
 IPK="enigma2-plugin-extensions-tivimatee2_1.0.14_all.ipk"
 DEB="enigma2-plugin-extensions-tivimatee2_1.0.14_all.deb"
 
